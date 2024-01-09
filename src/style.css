@@ -1,0 +1,939 @@
+.e-rido {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.e-rido .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 7164px;
+  position: relative;
+}
+
+.e-rido .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 124px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 109px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .overlap-2 {
+  position: absolute;
+  width: 478px;
+  height: 109px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .rectangle {
+  position: absolute;
+  width: 274px;
+  height: 109px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .img {
+  position: absolute;
+  width: 102px;
+  height: 109px;
+  top: 0;
+  left: 172px;
+}
+
+.e-rido .logo {
+  position: absolute;
+  width: 172px;
+  height: 104px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.e-rido .text-wrapper {
+  position: absolute;
+  width: 216px;
+  top: 68px;
+  left: 262px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #0c4142;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .overlap-3 {
+  position: absolute;
+  width: 1166px;
+  height: 45px;
+  top: 0;
+  left: 274px;
+}
+
+.e-rido .rectangle-2 {
+  position: absolute;
+  width: 1154px;
+  height: 45px;
+  top: 0;
+  left: 12px;
+}
+
+.e-rido .rectangle-3 {
+  position: absolute;
+  width: 62px;
+  height: 45px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .navbar {
+  position: absolute;
+  width: 927px;
+  height: 34px;
+  top: 90px;
+  left: 510px;
+}
+
+.e-rido .navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.e-rido .navbar li {
+  float: left;
+}
+
+.e-rido .navbar li a {
+  display: block;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #0c4142;
+  font-size: 64px;
+  letter-spacing: 0;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: xx-large;
+  margin-left: 70px;
+}
+
+.e-rido .navbar li a:hover {
+  background-color: grey;
+}
+
+.e-rido .text-wrapper-2 {
+  left: 0;
+  position: absolute;
+  width: 330px;
+  top: 0;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+
+.e-rido .text-wrapper-3 {
+  position: absolute;
+  width: 330px;
+  top: 0;
+  left: 597px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .text-wrapper-4 {
+  position: absolute;
+  width: 330px;
+  top: 0;
+  left: 165px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .text-wrapper-5 {
+  left: 386px;
+  position: absolute;
+  width: 330px;
+  top: 0;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .overlap-4 {
+  position: absolute;
+  width: 1440px;
+  height: 1303px;
+  top: 167px;
+  left: 0;
+}
+
+.e-rido .overlap-5 {
+  position: absolute;
+  width: 1440px;
+  height: 1055px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .blog {
+  position: absolute;
+  width: 1437px;
+  height: 771px;
+  top: 3px;
+  left: 0;
+  object-fit: cover;
+}
+
+.e-rido .rectangle-4 {
+  position: absolute;
+  width: 1440px;
+  height: 774px;
+  top: 0;
+  left: 0;
+  background-color: #0c4142;
+  opacity: 0.6;
+}
+
+.e-rido .hero-banner {
+  position: absolute;
+  width: 831px;
+  height: 686px;
+  top: 181px;
+  left: 609px;
+  object-fit: cover;
+}
+
+.e-rido .book-your-new-eco {
+  position: absolute;
+  width: 440px;
+  top: 204px;
+  left: 127px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #ffffff8c;
+  font-family: "Orelega One", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .span {
+  color: #ffffff;
+}
+
+.e-rido .text-wrapper-6 {
+  color: #00ff28;
+}
+
+.e-rido .text-wrapper-7 {
+  position: absolute;
+  width: 264px;
+  top: 891px;
+  left: 586px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .e-rideo-is-a-company {
+  position: absolute;
+  width: 692px;
+  top: 773px;
+  left: 645px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 28px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-8 {
+  color: #000000;
+}
+
+.e-rido .text-wrapper-9 {
+  font-weight: 800;
+  color: #00a61b;
+  font-size: 36px;
+}
+
+.e-rido .element {
+  position: absolute;
+  width: 300px;
+  height: 304px;
+  top: 999px;
+  left: 127px;
+}
+
+.e-rido .text-wrapper-10 {
+  position: absolute;
+  width: 392px;
+  top: 1842px;
+  left: 599px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-11 {
+  position: absolute;
+  width: 488px;
+  top: 1890px;
+  left: 503px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Orelega One", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .overlap-6 {
+  position: absolute;
+  width: 1204px;
+  height: 570px;
+  top: 2002px;
+  left: 99px;
+}
+
+.e-rido .service-banner {
+  position: absolute;
+  width: 805px;
+  height: 510px;
+  top: 60px;
+  left: 149px;
+  object-fit: cover;
+}
+
+.e-rido .ellipse {
+  position: absolute;
+  width: 1144px;
+  height: 558px;
+  top: 0;
+  left: 28px;
+}
+
+.e-rido .rectangle-5 {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  top: 77px;
+  left: 892px;
+  background-color: #ffffff;
+}
+
+.e-rido .rectangle-6 {
+  position: absolute;
+  width: 88px;
+  height: 88px;
+  top: 416px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.e-rido .rectangle-7 {
+  position: absolute;
+  width: 88px;
+  height: 88px;
+  top: 87px;
+  left: 208px;
+  background-color: #ffffff8c;
+}
+
+.e-rido .image {
+  position: absolute;
+  width: 83px;
+  height: 83px;
+  top: 96px;
+  left: 213px;
+  object-fit: cover;
+}
+
+.e-rido .image-2 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 77px;
+  left: 892px;
+  object-fit: cover;
+}
+
+.e-rido .image-3 {
+  position: absolute;
+  width: 86px;
+  height: 67px;
+  top: 426px;
+  left: 2px;
+  object-fit: cover;
+}
+
+.e-rido .text-wrapper-12 {
+  width: 208px;
+  top: 87px;
+  left: 990px;
+  color: #00a61b;
+  position: absolute;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-13 {
+  position: absolute;
+  width: 208px;
+  top: 443px;
+  left: 94px;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  color: #00a61b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-14 {
+  position: absolute;
+  width: 208px;
+  top: 95px;
+  left: 117px;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  color: #00a61b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-15 {
+  position: absolute;
+  width: 265px;
+  top: 453px;
+  left: 892px;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  color: #00a61b;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .rectangle-8 {
+  position: absolute;
+  width: 66px;
+  height: 79px;
+  top: 446px;
+  left: 1138px;
+  background-color: #ffffff;
+}
+
+.e-rido .refreshment {
+  position: absolute;
+  width: 48px;
+  height: 90px;
+  top: 442px;
+  left: 1147px;
+}
+
+.e-rido .overlap-7 {
+  position: absolute;
+  width: 1440px;
+  height: 2556px;
+  top: 3463px;
+  left: 0;
+  background-color: #0c4142;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.e-rido .text-wrapper-16 {
+  position: absolute;
+  width: 466px;
+  top: 68px;
+  left: 545px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .overlap-8 {
+  position: absolute;
+  width: 878px;
+  height: 613px;
+  top: 210px;
+  left: 283px;
+}
+
+.e-rido .rectangle-9 {
+  position: absolute;
+  width: 870px;
+  height: 613px;
+  top: 0;
+  left: 4px;
+  background-color: #0a821e;
+  border-radius: 20px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.e-rido .FREE-RIDE-BOOKING {
+  position: absolute;
+  width: 878px;
+  height: 275px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.e-rido .text-wrapper-17 {
+  position: absolute;
+  width: 489px;
+  top: 308px;
+  left: 204px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .p {
+  position: absolute;
+  width: 734px;
+  top: 403px;
+  left: 82px;
+  font-family: "Commissioner", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .overlap-9 {
+  position: absolute;
+  width: 878px;
+  height: 613px;
+  top: 994px;
+  left: 283px;
+}
+
+.e-rido .DESTINATION-BOOKING {
+  position: absolute;
+  width: 878px;
+  height: 317px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.e-rido .text-wrapper-18 {
+  position: absolute;
+  width: 533px;
+  top: 359px;
+  left: 198px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .text-wrapper-19 {
+  top: 446px;
+  left: 77px;
+  position: absolute;
+  width: 744px;
+  font-family: "Commissioner", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .overlap-10 {
+  position: absolute;
+  width: 876px;
+  height: 642px;
+  top: 1778px;
+  left: 281px;
+}
+
+.e-rido .rectangle-10 {
+  position: absolute;
+  width: 870px;
+  height: 642px;
+  top: 0;
+  left: 4px;
+  background-color: #0a821e;
+  border-radius: 20px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.e-rido .screenshot {
+  position: absolute;
+  width: 876px;
+  height: 323px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.e-rido .text-wrapper-20 {
+  position: absolute;
+  width: 533px;
+  top: 347px;
+  left: 184px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.e-rido .text-wrapper-21 {
+  top: 434px;
+  left: 79px;
+  position: absolute;
+  width: 744px;
+  font-family: "Commissioner", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-22 {
+  position: absolute;
+  width: 692px;
+  top: 1508px;
+  left: 645px;
+  font-family: "Commissioner", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 32px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .ellipse-2 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 1842px;
+  left: 566px;
+  background-color: #00ff28;
+  border-radius: 11px;
+  border: 1px solid;
+  border-color: #0a821e;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.e-rido .overlap-11 {
+  position: absolute;
+  width: 650px;
+  height: 376px;
+  top: 2895px;
+  left: 341px;
+}
+
+.e-rido .overlap-12 {
+  position: absolute;
+  width: 650px;
+  height: 376px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .line {
+  position: absolute;
+  width: 3px;
+  height: 376px;
+  top: 0;
+  left: 0;
+}
+
+.e-rido .rectangle-11 {
+  position: absolute;
+  width: 648px;
+  height: 88px;
+  top: 50px;
+  left: 2px;
+  background-color: #0a821e;
+}
+
+.e-rido .rectangle-12 {
+  position: absolute;
+  width: 80px;
+  height: 88px;
+  top: 229px;
+  left: 2px;
+  background-color: #0a821e;
+}
+
+.e-rido .text-wrapper-23 {
+  width: 122px;
+  top: 254px;
+  left: 116px;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  position: absolute;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-24 {
+  position: absolute;
+  width: 68px;
+  top: 2958px;
+  left: 259px;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-25 {
+  width: 68px;
+  top: 3152px;
+  left: 259px;
+  color: #000000;
+  position: absolute;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-26 {
+  width: 190px;
+  top: 2968px;
+  left: 1027px;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  position: absolute;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .text-wrapper-27 {
+  position: absolute;
+  width: 948px;
+  top: 2788px;
+  left: 293px;
+  font-family: "Open Sans Hebrew-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .group {
+  position: absolute;
+  width: 1448px;
+  height: 1145px;
+  top: 6019px;
+  left: 0;
+}
+
+.e-rido .overlap-13 {
+  position: absolute;
+  width: 1440px;
+  height: 866px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/xjKotBIh/img/stats-banner-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.e-rido .stay-tuned-we-are {
+  position: absolute;
+  width: 767px;
+  top: 149px;
+  left: 379px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .image-4 {
+  position: absolute;
+  width: 300px;
+  height: 302px;
+  top: 414px;
+  left: 582px;
+}
+
+.e-rido .overlap-group-2 {
+  position: absolute;
+  width: 1440px;
+  height: 279px;
+  top: 866px;
+  left: 0;
+  background-color: #0c4142;
+}
+
+.e-rido .text-wrapper-28 {
+  position: absolute;
+  width: 673px;
+  top: 43px;
+  left: 530px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #ffffff8c;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .image-5 {
+  position: absolute;
+  width: 70px;
+  height: 52px;
+  top: 145px;
+  left: 257px;
+  object-fit: cover;
+}
+
+.e-rido .overlap-14 {
+  position: absolute;
+  width: 516px;
+  height: 70px;
+  top: 136px;
+  left: 351px;
+}
+
+.e-rido .text-wrapper-29 {
+  position: absolute;
+  width: 462px;
+  top: 25px;
+  left: 0;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.e-rido .image-6 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 0;
+  left: 446px;
+  object-fit: cover;
+}
+
+.e-rido .text-wrapper-30 {
+  width: 420px;
+  top: 161px;
+  left: 882px;
+  font-family: "Comfortaa", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  position: absolute;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
